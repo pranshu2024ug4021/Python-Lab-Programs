@@ -1,4 +1,4 @@
-Python Lab Programs (Semester 3) - IIIT Ranchi
+**Python Lab Programs (Semester 3) - IIIT Ranchi**
 
 Name - Pranshu Pallav
 
